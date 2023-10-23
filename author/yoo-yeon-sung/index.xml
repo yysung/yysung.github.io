@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoo Yeon Sung</title>
+    <link>/author/yoo-yeon-sung/</link>
+      <atom:link href="/author/yoo-yeon-sung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoo Yeon Sung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yoo Yeon Sung</title>
+      <link>/author/yoo-yeon-sung/</link>
+    </image>
+    
+    <item>
+      <title>Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines</title>
+      <link>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines-copy/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines-copy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
