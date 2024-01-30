@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yoo Yeon Sung</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Yoo Yeon Sung</title>
+    <link>/author/yoo-yeon-sung/</link>
+      <atom:link href="/author/yoo-yeon-sung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoo Yeon Sung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Yoo Yeon Sung</title>
+      <link>/author/yoo-yeon-sung/</link>
     </image>
     
     <item>
       <title>How the Advent of Ubiquitous Large Language Models both Stymie and Turbocharge Dynamic Adversarial Question Generation</title>
-      <link>/publication/how-the-advent-of-ubiquitous-large-language-models-both-stymie-and-turbocharge-dynamic-adversarial-question-generation/</link>
+      <link>/publication/how-the-advent-of-ubiquitous-large-language-models-both-stymie-and-turbocharge-dynamic-adversarial-question-generation-2/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/how-the-advent-of-ubiquitous-large-language-models-both-stymie-and-turbocharge-dynamic-adversarial-question-generation/</guid>
+      <guid>/publication/how-the-advent-of-ubiquitous-large-language-models-both-stymie-and-turbocharge-dynamic-adversarial-question-generation-2/</guid>
       <description></description>
     </item>
     
@@ -25,14 +25,6 @@
       <link>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines-copy/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topical Keyphrase Extraction with Hierarchical Semantic Networks</title>
-      <link>/publication/topical-keyphrase-extraction-with-hierarchical-semantic-networks/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/topical-keyphrase-extraction-with-hierarchical-semantic-networks/</guid>
       <description></description>
     </item>
     
