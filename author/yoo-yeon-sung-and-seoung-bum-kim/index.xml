@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yoo Yeon Sung and Seoung Bum Kim | Yoo Yeon Sung</title>
+    <title>Yoo Yeon Sung and Seoung Bum Kim on Yoo Yeon Sung</title>
     <link>/author/yoo-yeon-sung-and-seoung-bum-kim/</link>
-      <atom:link href="/author/yoo-yeon-sung-and-seoung-bum-kim/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yoo Yeon Sung and Seoung Bum Kim</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Yoo Yeon Sung and Seoung Bum Kim</title>
-      <link>/author/yoo-yeon-sung-and-seoung-bum-kim/</link>
-    </image>
-    
+    <description>Recent content in Yoo Yeon Sung and Seoung Bum Kim on Yoo Yeon Sung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/author/yoo-yeon-sung-and-seoung-bum-kim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topical Keyphrase Extraction with Hierarchical Semantic Networks</title>
       <link>/publication/topical-keyphrase-extraction-with-hierarchical-semantic-networks/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>/publication/topical-keyphrase-extraction-with-hierarchical-semantic-networks/</guid>
       <description></description>
     </item>
