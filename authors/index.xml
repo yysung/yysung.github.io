@@ -1,74 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Yoo Yeon Sung</title>
+    <title>Authors | Yoo Yeon Sung</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Yoo Yeon Sung</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>and Jordan Boyd-Graber</title>
-      <link>/author/and-jordan-boyd-graber/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/author/and-jordan-boyd-graber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eve Fleisig</title>
-      <link>/author/eve-fleisig/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/author/eve-fleisig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ishani Mondal</title>
-      <link>/author/ishani-mondal/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/author/ishani-mondal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoo Yeon Sung</title>
-      <link>/author/yoo-yeon-sung/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/author/yoo-yeon-sung/</guid>
-      <description>I am a fourth-year Ph.D. candidate at the Information Studies College of the University of Maryland, College Park. I work with Jordan Boyd-Graber and Naeemul Hassan. My research interests are broadly in Human-interactable NLP and Responsible AI.</description>
-    </item>
-    
-    <item>
-      <title>and Naeemul Hassan</title>
-      <link>/author/and-naeemul-hassan/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/author/and-naeemul-hassan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jordan Boyd-Graber</title>
-      <link>/author/jordan-boyd-graber/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/author/jordan-boyd-graber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoo Yeon Sung and Seoung Bum Kim</title>
-      <link>/author/yoo-yeon-sung-and-seoung-bum-kim/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/author/yoo-yeon-sung-and-seoung-bum-kim/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
   </channel>
 </rss>

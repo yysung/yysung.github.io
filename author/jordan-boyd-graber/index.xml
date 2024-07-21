@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jordan Boyd-Graber on Yoo Yeon Sung</title>
+    <title>Jordan Boyd-Graber | Yoo Yeon Sung</title>
     <link>/author/jordan-boyd-graber/</link>
-    <description>Recent content in Jordan Boyd-Graber on Yoo Yeon Sung</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/author/jordan-boyd-graber/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/author/jordan-boyd-graber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jordan Boyd-Graber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Jordan Boyd-Graber</title>
+      <link>/author/jordan-boyd-graber/</link>
+    </image>
+    
     <item>
       <title>Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines</title>
       <link>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines/</guid>
       <description></description>
     </item>
