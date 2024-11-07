@@ -101,6 +101,8 @@
   </url><url>
     <loc>/talk/</loc>
   </url><url>
+    <loc>/talk/nottalk/</loc>
+  </url><url>
     <loc>/tags/</loc>
   </url>
 </urlset>
