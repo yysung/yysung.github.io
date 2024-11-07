@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="Adversarial benchmarks validate model abilities by providing samples that fool models but not humans. However, despite the proliferation of datasets that claim to be adversarial, there does not exist an established metric to evaluate how adversarial these datasets are. To address this lacuna, we introduce ADVSCORE, a metric which quantifies how adversarial and discriminative an adversarial dataset is and exposes the features that make data adversarial. We then use ADVSCORE to underpin a dataset creation pipeline that incentivizes writing a high-quality adversarial dataset. As a proof of concept, we use ADVSCORE to collect an adversarial question answering (QA) dataset, ADVQA, from our pipeline. The high-quality questions in ADVQA surpasses three adversarial benchmarks across domains at fooling several models but not humans. We validate our result based on difficulty estimates from 9,347 human responses on four datasets and predictions from three models. Moreover, ADVSCORE uncovers which adversarial tactics used by human writers fool models (e.g., GPT-4) but not humans. Through ADVSCORE and its analyses, we offer guidance on revealing language model vulnerabilities and producing reliable adversarial examples.">
+  <meta name="description" content="Adversarial datasets should ensure AI robustness that matches human performance. However, as models evolve, datasets can become obsolete. Thus, adversarial datasets should be periodically updated based on their degradation in adversarialness. Given the lack of a standardized metric for measuring adversarialness, we propose AdvScore, a human-grounded evaluation metric. AdvScore assesses a dataset&#39;s true adversarialness by capturing models&#39; and humans&#39; varying abilities, while also identifying poor examples. AdvScore then motivates a new dataset creation pipeline for realistic and high-quality adversarial samples, enabling us to collect an adversarial question answering (QA) dataset, AdvQA. We apply AdvScore using 9,347 human responses and ten language model predictions to track the models&#39; improvement over five years (from 2020 to 2024). AdvScore assesses whether adversarial datasets remain suitable for model evaluation, measures model improvements, and provides guidance for better alignment with human capabilities.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/">
@@ -234,8 +234,8 @@
   
   <meta property="og:site_name" content="Yoo Yeon Sung">
   <meta property="og:url" content="/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/">
-  <meta property="og:title" content="ADVSCORE: A Metric for the Evaluation and Creation of Adversarial Benchmarks | Yoo Yeon Sung">
-  <meta property="og:description" content="Adversarial benchmarks validate model abilities by providing samples that fool models but not humans. However, despite the proliferation of datasets that claim to be adversarial, there does not exist an established metric to evaluate how adversarial these datasets are. To address this lacuna, we introduce ADVSCORE, a metric which quantifies how adversarial and discriminative an adversarial dataset is and exposes the features that make data adversarial. We then use ADVSCORE to underpin a dataset creation pipeline that incentivizes writing a high-quality adversarial dataset. As a proof of concept, we use ADVSCORE to collect an adversarial question answering (QA) dataset, ADVQA, from our pipeline. The high-quality questions in ADVQA surpasses three adversarial benchmarks across domains at fooling several models but not humans. We validate our result based on difficulty estimates from 9,347 human responses on four datasets and predictions from three models. Moreover, ADVSCORE uncovers which adversarial tactics used by human writers fool models (e.g., GPT-4) but not humans. Through ADVSCORE and its analyses, we offer guidance on revealing language model vulnerabilities and producing reliable adversarial examples."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="og:title" content="Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness | Yoo Yeon Sung">
+  <meta property="og:description" content="Adversarial datasets should ensure AI robustness that matches human performance. However, as models evolve, datasets can become obsolete. Thus, adversarial datasets should be periodically updated based on their degradation in adversarialness. Given the lack of a standardized metric for measuring adversarialness, we propose AdvScore, a human-grounded evaluation metric. AdvScore assesses a dataset&#39;s true adversarialness by capturing models&#39; and humans&#39; varying abilities, while also identifying poor examples. AdvScore then motivates a new dataset creation pipeline for realistic and high-quality adversarial samples, enabling us to collect an adversarial question answering (QA) dataset, AdvQA. We apply AdvScore using 9,347 human responses and ten language model predictions to track the models&#39; improvement over five years (from 2020 to 2024). AdvScore assesses whether adversarial datasets remain suitable for model evaluation, measures model improvements, and provides guidance for better alignment with human capabilities."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
@@ -265,7 +265,7 @@
     "@type": "WebPage",
     "@id": "/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/"
   },
-  "headline": "ADVSCORE: A Metric for the Evaluation and Creation of Adversarial Benchmarks",
+  "headline": "Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness",
   
   "datePublished": "2024-06-25T00:00:00Z",
   "dateModified": "2024-06-25T00:00:00Z",
@@ -283,7 +283,7 @@
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Adversarial benchmarks validate model abilities by providing samples that fool models but not humans. However, despite the proliferation of datasets that claim to be adversarial, there does not exist an established metric to evaluate how adversarial these datasets are. To address this lacuna, we introduce ADVSCORE, a metric which quantifies how adversarial and discriminative an adversarial dataset is and exposes the features that make data adversarial. We then use ADVSCORE to underpin a dataset creation pipeline that incentivizes writing a high-quality adversarial dataset. As a proof of concept, we use ADVSCORE to collect an adversarial question answering (QA) dataset, ADVQA, from our pipeline. The high-quality questions in ADVQA surpasses three adversarial benchmarks across domains at fooling several models but not humans. We validate our result based on difficulty estimates from 9,347 human responses on four datasets and predictions from three models. Moreover, ADVSCORE uncovers which adversarial tactics used by human writers fool models (e.g., GPT-4) but not humans. Through ADVSCORE and its analyses, we offer guidance on revealing language model vulnerabilities and producing reliable adversarial examples."
+  "description": "Adversarial datasets should ensure AI robustness that matches human performance. However, as models evolve, datasets can become obsolete. Thus, adversarial datasets should be periodically updated based on their degradation in adversarialness. Given the lack of a standardized metric for measuring adversarialness, we propose AdvScore, a human-grounded evaluation metric. AdvScore assesses a dataset's true adversarialness by capturing models' and humans' varying abilities, while also identifying poor examples. AdvScore then motivates a new dataset creation pipeline for realistic and high-quality adversarial samples, enabling us to collect an adversarial question answering (QA) dataset, AdvQA. We apply AdvScore using 9,347 human responses and ten language model predictions to track the models' improvement over five years (from 2020 to 2024). AdvScore assesses whether adversarial datasets remain suitable for model evaluation, measures model improvements, and provides guidance for better alignment with human capabilities."
 }
 </script>
 
@@ -301,7 +301,7 @@
 
 
 
-  <title>ADVSCORE: A Metric for the Evaluation and Creation of Adversarial Benchmarks | Yoo Yeon Sung</title>
+  <title>Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness | Yoo Yeon Sung</title>
 
 </head>
 
@@ -518,7 +518,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>ADVSCORE: A Metric for the Evaluation and Creation of Adversarial Benchmarks</h1>
+  <h1>Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness</h1>
 
   
 
@@ -536,7 +536,7 @@
     
 
   
-  <span >Yoo Yeon Sung</span>, <span >Eve Fleisig</span>, <span >Ishani Mondal</span>, <span >and Jordan Boyd-Graber</span>
+  <span >Yoo Yeon Sung</span>, <span >Maharshi Gor</span>, <span >Eve Fleisig</span>, <span >Ishani Mondal</span>, <span >and Jordan Boyd-Graber</span>
   </div>
   
   
@@ -637,7 +637,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Adversarial benchmarks validate model abilities by providing samples that fool models but not humans. However, despite the proliferation of datasets that claim to be adversarial, there does not exist an established metric to evaluate how adversarial these datasets are. To address this lacuna, we introduce ADVSCORE, a metric which quantifies how adversarial and discriminative an adversarial dataset is and exposes the features that make data adversarial. We then use ADVSCORE to underpin a dataset creation pipeline that incentivizes writing a high-quality adversarial dataset. As a proof of concept, we use ADVSCORE to collect an adversarial question answering (QA) dataset, ADVQA, from our pipeline. The high-quality questions in ADVQA surpasses three adversarial benchmarks across domains at fooling several models but not humans. We validate our result based on difficulty estimates from 9,347 human responses on four datasets and predictions from three models. Moreover, ADVSCORE uncovers which adversarial tactics used by human writers fool models (e.g., GPT-4) but not humans. Through ADVSCORE and its analyses, we offer guidance on revealing language model vulnerabilities and producing reliable adversarial examples.</p>
+    <p class="pub-abstract">Adversarial datasets should ensure AI robustness that matches human performance. However, as models evolve, datasets can become obsolete. Thus, adversarial datasets should be periodically updated based on their degradation in adversarialness. Given the lack of a standardized metric for measuring adversarialness, we propose AdvScore, a human-grounded evaluation metric. AdvScore assesses a dataset&rsquo;s true adversarialness by capturing models&rsquo; and humans&rsquo; varying abilities, while also identifying poor examples. AdvScore then motivates a new dataset creation pipeline for realistic and high-quality adversarial samples, enabling us to collect an adversarial question answering (QA) dataset, AdvQA. We apply AdvScore using 9,347 human responses and ten language model predictions to track the models&rsquo; improvement over five years (from 2020 to 2024). AdvScore assesses whether adversarial datasets remain suitable for model evaluation, measures model improvements, and provides guidance for better alignment with human capabilities.</p>
     
 
     
@@ -697,7 +697,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;text=ADVSCORE:%20A%20Metric%20for%20the%20Evaluation%20and%20Creation%20of%20Adversarial%20Benchmarks" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;text=Is%20your%20benchmark%20truly%20adversarial?%20AdvScore:%20Evaluating%20Human-Grounded%20Adversarialness" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -710,7 +710,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;t=ADVSCORE:%20A%20Metric%20for%20the%20Evaluation%20and%20Creation%20of%20Adversarial%20Benchmarks" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;t=Is%20your%20benchmark%20truly%20adversarial?%20AdvScore:%20Evaluating%20Human-Grounded%20Adversarialness" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -723,7 +723,7 @@
       
       
       <li>
-        <a href="mailto:?subject=ADVSCORE:%20A%20Metric%20for%20the%20Evaluation%20and%20Creation%20of%20Adversarial%20Benchmarks&amp;body=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Is%20your%20benchmark%20truly%20adversarial?%20AdvScore:%20Evaluating%20Human-Grounded%20Adversarialness&amp;body=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -736,7 +736,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;title=ADVSCORE:%20A%20Metric%20for%20the%20Evaluation%20and%20Creation%20of%20Adversarial%20Benchmarks" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;title=Is%20your%20benchmark%20truly%20adversarial?%20AdvScore:%20Evaluating%20Human-Grounded%20Adversarialness" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -749,7 +749,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=ADVSCORE:%20A%20Metric%20for%20the%20Evaluation%20and%20Creation%20of%20Adversarial%20Benchmarks%20/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Is%20your%20benchmark%20truly%20adversarial?%20AdvScore:%20Evaluating%20Human-Grounded%20Adversarialness%20/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -762,7 +762,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;title=ADVSCORE:%20A%20Metric%20for%20the%20Evaluation%20and%20Creation%20of%20Adversarial%20Benchmarks" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/&amp;title=Is%20your%20benchmark%20truly%20adversarial?%20AdvScore:%20Evaluating%20Human-Grounded%20Adversarialness" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -877,6 +877,17 @@
 
       </div>
     </div>
+  
+
+
+  
+    
+    
+
+
+
+
+
   
 
 
