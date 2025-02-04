@@ -5,7 +5,7 @@
     <link>/author/yoo-yeon-sung-%EC%84%B1%EC%9C%A0%EC%97%B0/</link>
       <atom:link href="/author/yoo-yeon-sung-%EC%84%B1%EC%9C%A0%EC%97%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoo Yeon Sung (성유연)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yoo Yeon Sung (성유연)</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>You Make me Feel like a Natural Question: Training QA Systems on Transformed Trivia Questions</title>
-      <link>/publication/you-make-me-feel-like-a-natural-question-training-qa-systems-on-transformed-trivia-questions/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/you-make-me-feel-like-a-natural-question-training-qa-systems-on-transformed-trivia-questions/</guid>
+      <title>Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness</title>
+      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness</title>
-      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/</guid>
+      <title>You Make me Feel like a Natural Question: Training QA Systems on Transformed Trivia Questions</title>
+      <link>/publication/you-make-me-feel-like-a-natural-question-training-qa-systems-on-transformed-trivia-questions/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/you-make-me-feel-like-a-natural-question-training-qa-systems-on-transformed-trivia-questions/</guid>
       <description></description>
     </item>
     
