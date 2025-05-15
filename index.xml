@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoo Yeon Sung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yoo Yeon Sung</title>
@@ -104,18 +104,18 @@
     </item>
     
     <item>
-      <title>VeriLA: A Human-Centered Evaluation Framework for Interpretable Verification of LLM Agent Failures</title>
-      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy-2/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy-2/</guid>
+      <title>Granular Benchmark for Evaluating Model Calibration against Human Calibration</title>
+      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Granular Benchmark for Evaluating Model Calibration against Human Calibration</title>
-      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy/</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy/</guid>
+      <title>VeriLA: A Human-Centered Evaluation Framework for Interpretable Verification of LLM Agent Failures</title>
+      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy-2/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks-copy-2/</guid>
       <description></description>
     </item>
     
