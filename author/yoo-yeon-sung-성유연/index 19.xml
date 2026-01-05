@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoo Yeon Sung (성유연) | Yoo Yeon Sung</title>
+    <link>/author/yoo-yeon-sung-%EC%84%B1%EC%9C%A0%EC%97%B0/</link>
+      <atom:link href="/author/yoo-yeon-sung-%EC%84%B1%EC%9C%A0%EC%97%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoo Yeon Sung (성유연)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yoo Yeon Sung (성유연)</title>
+      <link>/author/yoo-yeon-sung-%EC%84%B1%EC%9C%A0%EC%97%B0/</link>
+    </image>
+    
+    <item>
+      <title>Granular Benchmark for Evaluating Model Calibration against Human Calibration</title>
+      <link>/publication/granular-benchmark-for-evaluating-model-calibration-against-human-calibration/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/granular-benchmark-for-evaluating-model-calibration-against-human-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VeriLA: A Human-Centered Evaluation Framework for Interpretable Verification of LLM Agent Failures</title>
+      <link>/publication/verila-a-human-centered-evaluation-framework-for-interpretable-verification-of-llm-agent-failures/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/verila-a-human-centered-evaluation-framework-for-interpretable-verification-of-llm-agent-failures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is your benchmark truly adversarial? AdvScore: Evaluating Human-Grounded Adversarialness</title>
+      <link>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/advscore-a-metric-for-the-evaluation-and-creation-of-adversarial-benchmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Make me Feel like a Natural Question: Training QA Systems on Transformed Trivia Questions</title>
+      <link>/publication/you-make-me-feel-like-a-natural-question-training-qa-systems-on-transformed-trivia-questions/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/you-make-me-feel-like-a-natural-question-training-qa-systems-on-transformed-trivia-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines</title>
+      <link>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/not-all-fake-news-is-written-a-dataset-and-analysis-of-misleading-video-headlines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the Advent of Ubiquitous Large Language Models both Stymie and Turbocharge Dynamic Adversarial Question Generation</title>
+      <link>/publication/how-the-advent-of-ubiquitous-large-language-models-both-stymie-and-turbocharge-dynamic-adversarial-question-generation/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/how-the-advent-of-ubiquitous-large-language-models-both-stymie-and-turbocharge-dynamic-adversarial-question-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
